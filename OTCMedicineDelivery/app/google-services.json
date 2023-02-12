@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "936654718848",
+    "firebase_url": "https://otcmedicinedelivery-8d804-default-rtdb.firebaseio.com",
+    "project_id": "otcmedicinedelivery-8d804",
+    "storage_bucket": "otcmedicinedelivery-8d804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936654718848:android:9b2b39ecc928b9d284e365",
+        "android_client_info": {
+          "package_name": "com.xiang.otcmedicinedelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936654718848-41a44c6eb50dnqg6eu97i60ku0qdlhun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD65AcLLuFePlBTELZVj4TgUhNA8zcrJ6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936654718848-41a44c6eb50dnqg6eu97i60ku0qdlhun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
